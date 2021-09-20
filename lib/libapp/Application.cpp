@@ -21,7 +21,7 @@ Application::Application(int argc, char **argv)
 {
     m_argc = argc;
     m_argv = argv;
-    m_parser.registerFlag('h', "help", "show program help");
+    m_parser.registerFlag('h', "help", "show program help BABAK  ");
     m_parser.registerFlag('v', "version", "show program version");
     m_parser.registerFlag('d', "debug", "set log level to debug");
 }
