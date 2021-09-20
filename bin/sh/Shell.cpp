@@ -121,7 +121,7 @@ Shell::Result Shell::exec()
     {
         // Show the user where to get help
         printf( "\r\n"
-                "Entering interactive Shell. Type 'help' for the command list.\r\n"
+                "Entering interactive Shell. Type 'help' Babak for the command list.\r\n"
                 "\r\n");
 
         // Begin loop
